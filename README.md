@@ -1,5 +1,3 @@
-# crisp-journey
-
 # Real-Time Financial News Analysis and Market Trend Prediction
 
 ## Project Description
