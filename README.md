@@ -42,4 +42,4 @@ Please feel free to fork this repository, make changes, and submit pull requests
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
-If you have any questions or feedback, please feel free to contact me at janhavi4696@gmail.com.
+If you have any questions or feedback, please feel free to contact me at pranalidivekar@gmail.com.
